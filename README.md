@@ -21,6 +21,6 @@ The proyect has had three Phases.
 
 ## Donwload.
 
-##Preanalysis and clean data.
+## Preanalysis and clean data.
 
-##Analysis.
+## Analysis.
