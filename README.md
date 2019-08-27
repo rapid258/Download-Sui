@@ -6,21 +6,21 @@
 
 # Project Sui.
 
-The SUI is the web site of "Sistema Único de Información de Servicios Públicos, administrado por la Superintendencia de Servicios Públicos Domiciliarios" in Colombia. The site integrate information finacial, administrative, operative and comercial  [**here**](http://www.sui.gov.co)
+The SUI is the web site of "Sistema Único de Información de Servicios Públicos, administrado por la Superintendencia de Servicios Públicos Domiciliarios", Unique Information System of Public Services of Colombia. The site integrates finacial, administrative, operative and comercial information [**here**](http://www.sui.gov.co)
 
 
-# Phases of project.
+# Phases of the project.
 
-The first database is "Consolidado Energía por Empresa Departamento y Municipio" Conolidate of energy for company,state and municipalities witt price, consume and suscriptor   [**here**](http://reportes.sui.gov.co/fabricaReportes/frameSet.jsp?idreporte=ele_com_096).
-Other databases have been compilade is [**Datos PQR**](http://reportes.sui.gov.co/fabricaReportes/frameSet.jsp?idreporte=ele_com_090), [**Estado de Resultados**](http://reportes.sui.gov.co/fabricaReportes/frameSet.jsp?idreporte=ele_fin_054), [**here**](http://www.sui.gov.co)
+The first database is "Consolidado Energía por Empresa Departamento y Municipio", Consolidate of energy for Company, State and Municipalities with price, consumption and suscriptor   [**here**](http://reportes.sui.gov.co/fabricaReportes/frameSet.jsp?idreporte=ele_com_096).
+Other databases have been compiled [**Datos PQR**](http://reportes.sui.gov.co/fabricaReportes/frameSet.jsp?idreporte=ele_com_090), [**Estado de Resultados**](http://reportes.sui.gov.co/fabricaReportes/frameSet.jsp?idreporte=ele_fin_054), [**here**](http://www.sui.gov.co)
 
 
-# Analises 
+# Analysis.
 
-The proyect have been three Phases.
+The proyect has had three Phases.
 
-## Donwload
+## Donwload.
 
-##Preanalisis and clean data
+##Preanalysis and clean data.
 
-##Analisis
+##Analysis.
