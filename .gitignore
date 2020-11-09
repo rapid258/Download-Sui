@@ -1,4 +1,6 @@
 chromedriver
+.gitignore
+.vscode
 ele_com_096/Data/.directory
 ele_com_096/Data/2003_Abril_Centro Poblado_Consumo.html
 ele_com_096/Data/2003_Abril_Centro Poblado_Suscriptores.html
