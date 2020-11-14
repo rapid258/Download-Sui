@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/mario/.virtualenvs/SuiData/bin/python"
+    "python.pythonPath": "/home/mario/.virtualenvs/SuiData/bin/python",
+    "jupyter.jupyterServerType": "local"
 }
