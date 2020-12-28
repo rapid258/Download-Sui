@@ -3,8 +3,6 @@
 ![](https://img.shields.io/github/issues/marioggil/DownloadSui.svg?style=plastic)
 ![](https://img.shields.io/github/stars/marioggil/DownloadSui.svg?style=plastic)
 
-Hola
-
 
 # Proyecto Sui.
 
