@@ -9,14 +9,14 @@
 This is a script to download the electricity part of the "Single Public Services Information System, administered by the Superintendence of Home Public Services", This system integrates the financial, administrative and operational part of the services in Colombia [**here**](http://www.sui.gov.co)
 
 
-# Fases e hitos.
+# Fases e hitos
 
 La primera fase es un sistema que descargue el "Consolidado Energía por Empresa Departamento y Municipio", con precios, consumo y suscriptores   [**here**](http://reportes.sui.gov.co/fabricaReportes/frameSet.jsp?idreporte=ele_com_096).
 
 Otras bases de datos objetivo son [**Datos PQR**](http://reportes.sui.gov.co/fabricaReportes/frameSet.jsp?idreporte=ele_com_090), [**Estado de Resultados**](http://reportes.sui.gov.co/fabricaReportes/frameSet.jsp?idreporte=ele_fin_054).
 
 
-# Analisis.
+# Analisis
 
 ## Consolidado Energía por Empresa Departamento y Municipio", con precios, consumo y suscriptores
 
