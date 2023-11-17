@@ -6,7 +6,7 @@
 
 # Proyecto Sui.
 
-Esto es un script para descargar la parte de eelectricidad del "Sistema Único de Información de Servicios Públicos, administrado por la Superintendencia de Servicios Públicos Domiciliarios", Este sistema integra la parte financiera, adminsitrativa y operativa de los servicios en colombia [**here**](http://www.sui.gov.co)
+This is a script to download the electricity part of the "Single Public Services Information System, administered by the Superintendence of Home Public Services", This system integrates the financial, administrative and operational part of the services in Colombia [**here**](http://www.sui.gov.co)
 
 
 # Fases e hitos.
@@ -20,13 +20,13 @@ Otras bases de datos objetivo son [**Datos PQR**](http://reportes.sui.gov.co/fab
 
 ## Consolidado Energía por Empresa Departamento y Municipio", con precios, consumo y suscriptores
 
-Age: Año del dato  
-Site: Tipo de ubicacion con tres opciones posibles Centro Urbano, Rural, Urbano  
-Departamento: Departamento de la ubicacion.  
-Municipio: Municipio de la ubicacion.  
-Empresa: Empresa Prestadora de servicio (Deberia ser Distribucion pero es bueno confirmalo)  
-### Datos de uso.
-Hay 10 categorias de usuarios:
+Age: Year of the data
+Site: Type of location with three possible options Urban Center, Rural, Urban
+Department: Department of the location.
+Municipality: Municipality of the location.
+Company: Service provider company (It should be Distribution but it is good to confirm it)
+### Usage data.
+There are 10 categories of users:
  - Estrato 1.  
  - Estrato 2.  
  - Estrato 3.  
