@@ -20,7 +20,7 @@ Otras bases de datos objetivo son [**Datos PQR**](http://reportes.sui.gov.co/fab
 
 ## Consolidado Energía por Empresa Departamento y Municipio", con precios, consumo y suscriptores
 
-Age: Year of the data
+Age: Year of the data:
 Site: Type of location with three possible options Urban Center, Rural, Urban
 Department: Department of the location.
 Municipality: Municipality of the location.
